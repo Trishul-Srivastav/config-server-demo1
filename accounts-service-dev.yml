@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank!!!, Accounts DEV APIs"
+  message: "Welcome to EazyBank!!!, Accounts DEVELOPMENT APIs"
   contactDetails:
     name: "Captain America"
     email: "{cipher}206bee5afd6700173cb48190c4bea8eaf767d95743506f4d635978a282e95a65ef8ed4386a9dee6eea90543f0cfe532f"
