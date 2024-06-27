@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+accounts:
+  message: Welcome to EazyBank!!!, Accounts QA APIs
+  contactDetails:
+    name: Thor
+    email: thor@gmail.com
+  onCallSupport:
+    - 0821-1234566
+    - 0876-7887829

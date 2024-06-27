@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+loans:
+  message: Welcome to EazyBank!!!, Loans DEV APIs
+  contactDetails:
+    name: Captain America
+    email: captainamerica@gmail.com
+  onCallSupport:
+    - 0821-1234566
+    - 0876-7887829

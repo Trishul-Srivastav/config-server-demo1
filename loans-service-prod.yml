@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+loans:
+  message: Welcome to EazyBank!!!, Loans PROD APIs
+  contactDetails:
+    name: Iron Man
+    email: ironman@gmail.com
+  onCallSupport:
+    - 0821-1234566
+    - 0876-7887829

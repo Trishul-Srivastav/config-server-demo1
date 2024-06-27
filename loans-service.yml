@@ -1,0 +1,11 @@
+build:
+  version: 0.5
+
+loans:
+  message: Welcome to EazyBank!!!, Loans local APIs
+  contactDetails:
+    name: Jack Sparrow
+    email: sparrow@gmail.com
+  onCallSupport:
+    - 0821-1234566
+    - 0876-7887829
